@@ -1,3 +1,8 @@
+hcs64 TODO:
+- set size excluding chrome
+- disable hotkeys
+- automatic name from dims
+
 WindowSizer -- Window Resizing WebExtension
 ===========================================
 
